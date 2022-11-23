@@ -1,0 +1,2 @@
+Java Create Excel File
+In Java, read excel file and write excel file is a bit tricky because excel worksheet has cells to store data. Java does not provide direct API to read or write Microsoft Excel or Word documents. We have to rely on the third-party library that is Apache POI. In this section, we will learn how to create an excel file in Java and how to write or insert data in the excel file using the Apache POI Java library.
